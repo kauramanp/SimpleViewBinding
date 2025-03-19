@@ -11,4 +11,12 @@ This project demonstrates how to use ViewBinding in an Android Activity while ha
 # 🛠️ Tech Stack
 Kotlin<br>
 ViewBinding<br>
-Jetpack Components
+Jetpack Components<br>
+
+# 📌 Key Points
+ViewBinding eliminates findViewById() calls.<br>
+Edge-to-Edge Support ensures a full-screen experience.<br>
+Memory Management: _binding = null in onDestroy() prevents leaks.<br>
+
+
+# 🚀 A simple yet effective implementation of ViewBinding in Android!
